@@ -1,0 +1,9 @@
+{
+    "name": "joshirohit100/sniff-class-namespace",
+    "type": "phpcodesniffer-standard",
+    "license": "GPL-2.0+",
+    "require": {
+        "php": ">=5.4.0",
+        "squizlabs/php_codesniffer": "^2.0"
+    }
+}
